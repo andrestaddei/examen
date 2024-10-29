@@ -1,5 +1,3 @@
-pip install streamlit
-pip install yfinance
 import streamlit as st 
 import yfinance as yf
 import matplotlib.pyplot as plt
